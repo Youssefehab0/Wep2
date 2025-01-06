@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Gadara2.props" />
+</Project>
